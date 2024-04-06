@@ -21,16 +21,7 @@
 
 <br>
 <h3 align="left">Linguagens e Framework:</h3>
-<p align="left">
-  <a href="https://dart.dev/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ADart_programming_language_logo_icon.svg&psig=AOvVaw3ey2-EX-L97bew4SPmZiFC&ust=1712500660714000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOikoJ7orYUDFQAAAAAdAAAAABAE" alt="Delphi" width="40" height="40"/> </a>
-  
-  <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://storage.googleapis.com/cms-storage-bucket/0dbfcc7a59cd1cf16282.png" alt="Flutter" width="40" height="40"/></a>
-  
-  <a href="https://www.embarcadero.com/br/products/delphi" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968252.png" alt="Delphi" width="40" height="40"/> </a>
-  
-  <a href="https://firebirdsql.org/" target="_blank" rel="noreferrer"> <img src="https://www.ibm.com/content/dam/adobe-cms/instana/media_logo/Azure-SQL-Database-Monitoring.component.complex-narrative-xl.ts=1692276181038.png/content/adobe-cms/br/pt/products/instana/supported-technologies/azure-sql-database-monitoring/_jcr_content/root/table_of_contents/body/content_section_styled/content-section-body/complex_narrative/logoimage" alt="SQL" width="40" height="40"/> </a>
-</p>
-<br>
+<p align="left"><a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://storage.googleapis.com/cms-storage-bucket/0dbfcc7a59cd1cf16282.png" alt="Flutter" width="40" height="40"/></a><a href="https://www.embarcadero.com/br/products/delphi" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968252.png" alt="Delphi" width="40" height="40"/> </a><a href="https://firebirdsql.org/" target="_blank" rel="noreferrer"> <img src="https://www.ibm.com/content/dam/adobe-cms/instana/media_logo/Azure-SQL-Database-Monitoring.component.complex-narrative-xl.ts=1692276181038.png/content/adobe-cms/br/pt/products/instana/supported-technologies/azure-sql-database-monitoring/_jcr_content/root/table_of_contents/body/content_section_styled/content-section-body/complex_narrative/logoimage" alt="SQL" width="40" height="40"/> </a></p><br>
 
 
 <hr width="36%" >
